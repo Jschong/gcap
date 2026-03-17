@@ -5,7 +5,7 @@ import {
   LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip,
   Legend, ResponsiveContainer
 } from 'recharts'
-import { STATIC_MARKET_DATA, CountryData } from '../lib/marketData'
+import { STATIC_MARKET_DATA, CountryData } from '../../lib/marketData'
 
 // ─── Icons (inline SVG) ──────────────────────────────────────────────────────
 const Icon = {
